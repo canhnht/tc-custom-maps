@@ -8,7 +8,7 @@ const MIN_LAT = -90;
 const MAX_LAT = +90;
 const MIN_LNG = -180;
 const MAX_LNG = +180;
-const NUMBER_MARKERS = 50;
+const NUMBER_MARKERS = 5000;
 
 let markers = [];
 for (let iter = 0; iter < NUMBER_MARKERS; ++iter) {
